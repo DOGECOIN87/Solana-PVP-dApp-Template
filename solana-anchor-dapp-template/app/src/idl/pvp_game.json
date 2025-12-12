@@ -1,0 +1,13 @@
+{
+  "address": "PVPgame11111111111111111111111111111111111",
+  "metadata": {
+    "name": "pvp_game",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Skill-based PVP game escrow program on Solana"
+  },
+  "instructions": [],
+  "accounts": [],
+  "types": [],
+  "errors": []
+}
